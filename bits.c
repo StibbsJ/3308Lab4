@@ -3,7 +3,8 @@
  * 
  * <Please put your name and userid here>
  * John Stibbards 105071781
- * 
+ * yay
+ *	
  * bits.c - Source file with your solutions to the Lab.
  *          This is the file you will hand in to your instructor.
  *
